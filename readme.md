@@ -1,4 +1,4 @@
-# SASS ROUTER CONTEXT TEMPLATE
+# React-Jss ROUTER CONTEXT TEMPLATE
 
 #### Created by Alex Merced of AlexMercedCoder.com/devNursery.com
 
